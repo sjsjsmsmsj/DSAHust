@@ -1,1 +1,1 @@
-            markS[r / 3][c / 3][i] = -1;
+    for (int j = 1; j <= n;j ++) {
